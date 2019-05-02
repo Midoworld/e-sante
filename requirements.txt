@@ -1,3 +1,0 @@
-dnspython==1.15.0
-pymongo==3.6.1
-requests==2.18.4
